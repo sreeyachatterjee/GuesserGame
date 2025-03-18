@@ -47,9 +47,9 @@ Edit
 ```bash
 javac LaunchGame.java
 ```
-```bash
+
 2. Run the Game
-bash
+```bash
 java LaunchGame
 ```
 🤝 Contributing
